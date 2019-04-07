@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\Debug\LCD Controller.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD Controller.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD Controller.map</FILE>
+  <FILE>LCD Controller.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <KeyPoll><FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</FILE><LINE>31</LINE></KeyPoll>
+  <KeyPressed><FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</FILE><LINE>38</LINE></KeyPressed>
+  <DataSend><FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</FILE><LINE>50</LINE></DataSend>
+  <Delay><FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</FILE><LINE>74</LINE></Delay>
+  <L1><FILE>C:\Users\atomi\Documents\Atmel Studio\7.0\LCD Controller\LCD Controller\main.asm</FILE><LINE>78</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
